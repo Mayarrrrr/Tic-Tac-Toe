@@ -57,7 +57,6 @@ const Board = () => {
     setSquares(newSquares);   //34an al 2dema = al gdeda kda 
     setXIsNext(!xIsNext);     //34an y-flip al value al feha 34an y8yr al dor kol mra
 
-
   }
 
   return (
